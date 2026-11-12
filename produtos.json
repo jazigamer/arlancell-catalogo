@@ -1,0 +1,12 @@
+{
+  "loja": {
+    "nome": "Arlancell",
+    "whatsapp": "",
+    "whatsapp_link": "https://api.whatsapp.com/message/7XUJACH7GOSOB1?autoload=1&app_absent=0&utm_source=ig",
+    "mapa": "https://www.google.com/maps/place/Arlan+Cell/@-4.370978,-38.80936,17z/data=!3m1!4b1!4m6!3m5!1s0x7bf2d2d9c0adef5:0x7e6a6d4960458ad0!8m2!3d-4.370978!4d-38.80936!16s%2Fg%2F11h3bcj0bn!17m2!4m1!1e3",
+    "endereco": "",
+    "horario": "",
+    "destaques": ["Entrega no mesmo dia em Aracoiaba", "Parcelamento em até 21x", "Assistência técnica"]
+  },
+  "produtos": []
+}
